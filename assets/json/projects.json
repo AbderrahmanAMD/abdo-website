@@ -1,0 +1,23 @@
+[
+  {
+    "name": "JavaScript portfolio",
+    "description": "A JavaScript portfolio website showcasing my projects and skills.",
+    "image": "./assets/images/img/123.png",
+    "url": "https://myjs-projects.netlify.app",
+    "github": "https://github.com/SwarajThakre/js-portfolio"
+  },
+  {
+    "name": "Personal Portfolio",
+    "description": "A portfolio website showcasing my projects and skills.",
+    "image": "./assets/images/img/124.png",
+    "url": "https://swarajthakre26.netlify.app",
+    "github": "https://github.com/SwarajThakre/Personal_portfolio"
+  },
+  {
+    "name": "McDonald Clone",
+    "description": "A McDonald clone website .",
+    "image": "./assets/images/img/mcd.png",
+    "url": "/",
+    "github": "https://github.com/SwarajThakre/Website_clones/tree/main/mcd_clone"
+  }
+]
